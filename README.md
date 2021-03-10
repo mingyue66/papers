@@ -1,5 +1,5 @@
 # Linguisitcs Papers
-Sort linguistics papers by topic, and share. Please cite properly. 
+Sort linguistics papers by topic for my own reference. If anyone else read this list, please cite properly. 
 ## Phonetics and Phonology
 
 ### Default vowel
